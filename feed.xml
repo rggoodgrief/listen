@@ -1,0 +1,818 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Good Grief: Inalienable to Life Itself</title>
+    <link>https://rggoodgrief.github.io/listen/</link>
+    <description>An emotional mixtape, by Roman. Start with episode 1, and take it in as many sittings as you like.</description>
+    <language>en-us</language>
+    <itunes:author>Roman Gonzalez</itunes:author>
+    <itunes:image href="https://rggoodgrief.github.io/listen/cover.jpg"/>
+    <itunes:type>serial</itunes:type>
+    <itunes:explicit>true</itunes:explicit>
+    <itunes:block>Yes</itunes:block>
+    <itunes:category text="Arts"/>
+    <item>
+      <title>Intro · Letter</title>
+      <itunes:title>Intro · Letter</itunes:title>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://rggoodgrief.github.io/listen/01.mp3" length="7286171" type="audio/mpeg"/>
+      <guid isPermaLink="false">goodgrief-01</guid>
+      <pubDate>Mon, 26 Oct 2026 07:34:20 GMT</pubDate>
+      <itunes:duration>00:04:34</itunes:duration>
+      <itunes:image href="https://rggoodgrief.github.io/listen/cover.jpg"/>
+    </item>
+    <item>
+      <title>Intro · Summary</title>
+      <itunes:title>Intro · Summary</itunes:title>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://rggoodgrief.github.io/listen/02.mp3" length="14094493" type="audio/mpeg"/>
+      <guid isPermaLink="false">goodgrief-02</guid>
+      <pubDate>Mon, 26 Oct 2026 07:35:20 GMT</pubDate>
+      <itunes:duration>00:10:14</itunes:duration>
+      <itunes:image href="https://rggoodgrief.github.io/listen/cover.jpg"/>
+    </item>
+    <item>
+      <title>Intro · Last Episode</title>
+      <itunes:title>Intro · Last Episode</itunes:title>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://rggoodgrief.github.io/listen/03.mp3" length="6203303" type="audio/mpeg"/>
+      <guid isPermaLink="false">goodgrief-03</guid>
+      <pubDate>Mon, 26 Oct 2026 07:36:20 GMT</pubDate>
+      <itunes:duration>00:03:39</itunes:duration>
+      <itunes:image href="https://rggoodgrief.github.io/listen/cover.jpg"/>
+    </item>
+    <item>
+      <title>Book I: Goodness</title>
+      <itunes:title>Book I: Goodness</itunes:title>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://rggoodgrief.github.io/listen/04.mp3" length="3090476" type="audio/mpeg"/>
+      <guid isPermaLink="false">goodgrief-04</guid>
+      <pubDate>Mon, 26 Oct 2026 07:37:20 GMT</pubDate>
+      <itunes:duration>00:01:04</itunes:duration>
+      <itunes:image href="https://rggoodgrief.github.io/listen/cover.jpg"/>
+    </item>
+    <item>
+      <title>Book I · A. The Shape of Days</title>
+      <itunes:title>Book I · A. The Shape of Days</itunes:title>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://rggoodgrief.github.io/listen/05.mp3" length="7888121" type="audio/mpeg"/>
+      <guid isPermaLink="false">goodgrief-05</guid>
+      <pubDate>Mon, 26 Oct 2026 07:38:20 GMT</pubDate>
+      <itunes:duration>00:05:04</itunes:duration>
+      <itunes:image href="https://rggoodgrief.github.io/listen/cover.jpg"/>
+    </item>
+    <item>
+      <title>Book I · B. Radical Sobriety</title>
+      <itunes:title>Book I · B. Radical Sobriety</itunes:title>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://rggoodgrief.github.io/listen/06.mp3" length="3056439" type="audio/mpeg"/>
+      <guid isPermaLink="false">goodgrief-06</guid>
+      <pubDate>Mon, 26 Oct 2026 07:39:20 GMT</pubDate>
+      <itunes:duration>00:01:02</itunes:duration>
+      <itunes:image href="https://rggoodgrief.github.io/listen/cover.jpg"/>
+    </item>
+    <item>
+      <title>Book I · See Things As They Truly Are</title>
+      <itunes:title>Book I · See Things As They Truly Are</itunes:title>
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://rggoodgrief.github.io/listen/07.mp3" length="5606217" type="audio/mpeg"/>
+      <guid isPermaLink="false">goodgrief-07</guid>
+      <pubDate>Mon, 26 Oct 2026 07:40:20 GMT</pubDate>
+      <itunes:duration>00:03:10</itunes:duration>
+      <itunes:image href="https://rggoodgrief.github.io/listen/cover.jpg"/>
+    </item>
+    <item>
+      <title>Book I · Last Call @ Bar Roman</title>
+      <itunes:title>Book I · Last Call @ Bar Roman</itunes:title>
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://rggoodgrief.github.io/listen/08.mp3" length="8568283" type="audio/mpeg"/>
+      <guid isPermaLink="false">goodgrief-08</guid>
+      <pubDate>Mon, 26 Oct 2026 07:41:20 GMT</pubDate>
+      <itunes:duration>00:05:38</itunes:duration>
+      <itunes:image href="https://rggoodgrief.github.io/listen/cover.jpg"/>
+    </item>
+    <item>
+      <title>Book I · Getting Out of the Intoxication Economy</title>
+      <itunes:title>Book I · Getting Out of the Intoxication Economy</itunes:title>
+      <itunes:episode>9</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://rggoodgrief.github.io/listen/09.mp3" length="4822399" type="audio/mpeg"/>
+      <guid isPermaLink="false">goodgrief-09</guid>
+      <pubDate>Mon, 26 Oct 2026 07:42:20 GMT</pubDate>
+      <itunes:duration>00:02:30</itunes:duration>
+      <itunes:image href="https://rggoodgrief.github.io/listen/cover.jpg"/>
+    </item>
+    <item>
+      <title>Book I · C. Muhasaba: Emotional Self-Accounting</title>
+      <itunes:title>Book I · C. Muhasaba: Emotional Self-Accounting</itunes:title>
+      <itunes:episode>10</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://rggoodgrief.github.io/listen/10.mp3" length="3230238" type="audio/mpeg"/>
+      <guid isPermaLink="false">goodgrief-10</guid>
+      <pubDate>Mon, 26 Oct 2026 07:43:20 GMT</pubDate>
+      <itunes:duration>00:01:11</itunes:duration>
+      <itunes:image href="https://rggoodgrief.github.io/listen/cover.jpg"/>
+    </item>
+    <item>
+      <title>Book I · The Origins: I Wanted to Be Better For You</title>
+      <itunes:title>Book I · The Origins: I Wanted to Be Better For You</itunes:title>
+      <itunes:episode>11</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://rggoodgrief.github.io/listen/11.mp3" length="6066566" type="audio/mpeg"/>
+      <guid isPermaLink="false">goodgrief-11</guid>
+      <pubDate>Mon, 26 Oct 2026 07:44:20 GMT</pubDate>
+      <itunes:duration>00:03:33</itunes:duration>
+      <itunes:image href="https://rggoodgrief.github.io/listen/cover.jpg"/>
+    </item>
+    <item>
+      <title>Book I · Becoming an Expert in Emotional Safety</title>
+      <itunes:title>Book I · Becoming an Expert in Emotional Safety</itunes:title>
+      <itunes:episode>12</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://rggoodgrief.github.io/listen/12.mp3" length="8698398" type="audio/mpeg"/>
+      <guid isPermaLink="false">goodgrief-12</guid>
+      <pubDate>Mon, 26 Oct 2026 07:45:20 GMT</pubDate>
+      <itunes:duration>00:05:44</itunes:duration>
+      <itunes:image href="https://rggoodgrief.github.io/listen/cover.jpg"/>
+    </item>
+    <item>
+      <title>Book I · The Turn: I Have a Nervous System, Too</title>
+      <itunes:title>Book I · The Turn: I Have a Nervous System, Too</itunes:title>
+      <itunes:episode>13</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://rggoodgrief.github.io/listen/13.mp3" length="6344478" type="audio/mpeg"/>
+      <guid isPermaLink="false">goodgrief-13</guid>
+      <pubDate>Mon, 26 Oct 2026 07:46:20 GMT</pubDate>
+      <itunes:duration>00:03:47</itunes:duration>
+      <itunes:image href="https://rggoodgrief.github.io/listen/cover.jpg"/>
+    </item>
+    <item>
+      <title>Book I · What did all this work amount to?</title>
+      <itunes:title>Book I · What did all this work amount to?</itunes:title>
+      <itunes:episode>14</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://rggoodgrief.github.io/listen/14.mp3" length="13290548" type="audio/mpeg"/>
+      <guid isPermaLink="false">goodgrief-14</guid>
+      <pubDate>Mon, 26 Oct 2026 07:47:20 GMT</pubDate>
+      <itunes:duration>00:09:34</itunes:duration>
+      <itunes:image href="https://rggoodgrief.github.io/listen/cover.jpg"/>
+    </item>
+    <item>
+      <title>Book I · Closing Reflection</title>
+      <itunes:title>Book I · Closing Reflection</itunes:title>
+      <itunes:episode>15</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://rggoodgrief.github.io/listen/15.mp3" length="4384118" type="audio/mpeg"/>
+      <guid isPermaLink="false">goodgrief-15</guid>
+      <pubDate>Mon, 26 Oct 2026 07:48:20 GMT</pubDate>
+      <itunes:duration>00:02:09</itunes:duration>
+      <itunes:image href="https://rggoodgrief.github.io/listen/cover.jpg"/>
+    </item>
+    <item>
+      <title>Book I · D. Intellectual and Creative Advance</title>
+      <itunes:title>Book I · D. Intellectual and Creative Advance</itunes:title>
+      <itunes:episode>16</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://rggoodgrief.github.io/listen/16.mp3" length="2622554" type="audio/mpeg"/>
+      <guid isPermaLink="false">goodgrief-16</guid>
+      <pubDate>Mon, 26 Oct 2026 07:49:20 GMT</pubDate>
+      <itunes:duration>00:00:40</itunes:duration>
+      <itunes:image href="https://rggoodgrief.github.io/listen/cover.jpg"/>
+    </item>
+    <item>
+      <title>Book I · Creative Advance</title>
+      <itunes:title>Book I · Creative Advance</itunes:title>
+      <itunes:episode>17</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://rggoodgrief.github.io/listen/17.mp3" length="3098194" type="audio/mpeg"/>
+      <guid isPermaLink="false">goodgrief-17</guid>
+      <pubDate>Mon, 26 Oct 2026 07:50:20 GMT</pubDate>
+      <itunes:duration>00:01:04</itunes:duration>
+      <itunes:image href="https://rggoodgrief.github.io/listen/cover.jpg"/>
+    </item>
+    <item>
+      <title>Book I · Intellectual Advance</title>
+      <itunes:title>Book I · Intellectual Advance</itunes:title>
+      <itunes:episode>18</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://rggoodgrief.github.io/listen/18.mp3" length="3036282" type="audio/mpeg"/>
+      <guid isPermaLink="false">goodgrief-18</guid>
+      <pubDate>Mon, 26 Oct 2026 07:51:20 GMT</pubDate>
+      <itunes:duration>00:01:01</itunes:duration>
+      <itunes:image href="https://rggoodgrief.github.io/listen/cover.jpg"/>
+    </item>
+    <item>
+      <title>Book I · Close To You</title>
+      <itunes:title>Book I · Close To You</itunes:title>
+      <itunes:episode>19</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://rggoodgrief.github.io/listen/19.mp3" length="3892106" type="audio/mpeg"/>
+      <guid isPermaLink="false">goodgrief-19</guid>
+      <pubDate>Mon, 26 Oct 2026 07:52:20 GMT</pubDate>
+      <itunes:duration>00:01:44</itunes:duration>
+      <itunes:image href="https://rggoodgrief.github.io/listen/cover.jpg"/>
+    </item>
+    <item>
+      <title>Book I · E. Closing Reflections</title>
+      <itunes:title>Book I · E. Closing Reflections</itunes:title>
+      <itunes:episode>20</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://rggoodgrief.github.io/listen/20.mp3" length="4290526" type="audio/mpeg"/>
+      <guid isPermaLink="false">goodgrief-20</guid>
+      <pubDate>Mon, 26 Oct 2026 07:53:20 GMT</pubDate>
+      <itunes:duration>00:02:04</itunes:duration>
+      <itunes:image href="https://rggoodgrief.github.io/listen/cover.jpg"/>
+    </item>
+    <item>
+      <title>Book I · Somatic Break</title>
+      <itunes:title>Book I · Somatic Break</itunes:title>
+      <itunes:episode>21</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://rggoodgrief.github.io/listen/21.mp3" length="3044428" type="audio/mpeg"/>
+      <guid isPermaLink="false">goodgrief-21</guid>
+      <pubDate>Mon, 26 Oct 2026 07:54:20 GMT</pubDate>
+      <itunes:duration>00:01:02</itunes:duration>
+      <itunes:image href="https://rggoodgrief.github.io/listen/cover.jpg"/>
+    </item>
+    <item>
+      <title>Book I · Recap</title>
+      <itunes:title>Book I · Recap</itunes:title>
+      <itunes:episode>22</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://rggoodgrief.github.io/listen/22.mp3" length="4933692" type="audio/mpeg"/>
+      <guid isPermaLink="false">goodgrief-22</guid>
+      <pubDate>Mon, 26 Oct 2026 07:55:20 GMT</pubDate>
+      <itunes:duration>00:02:36</itunes:duration>
+      <itunes:image href="https://rggoodgrief.github.io/listen/cover.jpg"/>
+    </item>
+    <item>
+      <title>Book II: Truth</title>
+      <itunes:title>Book II: Truth</itunes:title>
+      <itunes:episode>23</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://rggoodgrief.github.io/listen/23.mp3" length="2642155" type="audio/mpeg"/>
+      <guid isPermaLink="false">goodgrief-23</guid>
+      <pubDate>Mon, 26 Oct 2026 07:56:20 GMT</pubDate>
+      <itunes:duration>00:00:41</itunes:duration>
+      <itunes:image href="https://rggoodgrief.github.io/listen/cover.jpg"/>
+    </item>
+    <item>
+      <title>Book II · Summary</title>
+      <itunes:title>Book II · Summary</itunes:title>
+      <itunes:episode>24</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://rggoodgrief.github.io/listen/24.mp3" length="3344418" type="audio/mpeg"/>
+      <guid isPermaLink="false">goodgrief-24</guid>
+      <pubDate>Mon, 26 Oct 2026 07:57:20 GMT</pubDate>
+      <itunes:duration>00:01:17</itunes:duration>
+      <itunes:image href="https://rggoodgrief.github.io/listen/cover.jpg"/>
+    </item>
+    <item>
+      <title>Book II · The Bridge Book</title>
+      <itunes:title>Book II · The Bridge Book</itunes:title>
+      <itunes:episode>25</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://rggoodgrief.github.io/listen/25.mp3" length="11582194" type="audio/mpeg"/>
+      <guid isPermaLink="false">goodgrief-25</guid>
+      <pubDate>Mon, 26 Oct 2026 07:58:20 GMT</pubDate>
+      <itunes:duration>00:08:08</itunes:duration>
+      <itunes:image href="https://rggoodgrief.github.io/listen/cover.jpg"/>
+    </item>
+    <item>
+      <title>Book II · I Love That You’re Muslim</title>
+      <itunes:title>Book II · I Love That You’re Muslim</itunes:title>
+      <itunes:episode>26</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://rggoodgrief.github.io/listen/26.mp3" length="3826374" type="audio/mpeg"/>
+      <guid isPermaLink="false">goodgrief-26</guid>
+      <pubDate>Mon, 26 Oct 2026 07:59:20 GMT</pubDate>
+      <itunes:duration>00:01:41</itunes:duration>
+      <itunes:image href="https://rggoodgrief.github.io/listen/cover.jpg"/>
+    </item>
+    <item>
+      <title>Book II · Ramadan and the Quran</title>
+      <itunes:title>Book II · Ramadan and the Quran</itunes:title>
+      <itunes:episode>27</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://rggoodgrief.github.io/listen/27.mp3" length="5974366" type="audio/mpeg"/>
+      <guid isPermaLink="false">goodgrief-27</guid>
+      <pubDate>Mon, 26 Oct 2026 08:00:20 GMT</pubDate>
+      <itunes:duration>00:03:28</itunes:duration>
+      <itunes:image href="https://rggoodgrief.github.io/listen/cover.jpg"/>
+    </item>
+    <item>
+      <title>Book II · Stepping Into Islam</title>
+      <itunes:title>Book II · Stepping Into Islam</itunes:title>
+      <itunes:episode>28</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://rggoodgrief.github.io/listen/28.mp3" length="8102202" type="audio/mpeg"/>
+      <guid isPermaLink="false">goodgrief-28</guid>
+      <pubDate>Mon, 26 Oct 2026 08:01:20 GMT</pubDate>
+      <itunes:duration>00:05:14</itunes:duration>
+      <itunes:image href="https://rggoodgrief.github.io/listen/cover.jpg"/>
+    </item>
+    <item>
+      <title>Book II · Holding Court on Islam</title>
+      <itunes:title>Book II · Holding Court on Islam</itunes:title>
+      <itunes:episode>29</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://rggoodgrief.github.io/listen/29.mp3" length="5822208" type="audio/mpeg"/>
+      <guid isPermaLink="false">goodgrief-29</guid>
+      <pubDate>Mon, 26 Oct 2026 08:02:20 GMT</pubDate>
+      <itunes:duration>00:03:20</itunes:duration>
+      <itunes:image href="https://rggoodgrief.github.io/listen/cover.jpg"/>
+    </item>
+    <item>
+      <title>Book II · Bar Roman Presents…God!</title>
+      <itunes:title>Book II · Bar Roman Presents…God!</itunes:title>
+      <itunes:episode>30</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://rggoodgrief.github.io/listen/30.mp3" length="5254370" type="audio/mpeg"/>
+      <guid isPermaLink="false">goodgrief-30</guid>
+      <pubDate>Mon, 26 Oct 2026 08:03:20 GMT</pubDate>
+      <itunes:duration>00:02:52</itunes:duration>
+      <itunes:image href="https://rggoodgrief.github.io/listen/cover.jpg"/>
+    </item>
+    <item>
+      <title>Book II · The Scholars are the Heirs to the Prophet</title>
+      <itunes:title>Book II · The Scholars are the Heirs to the Prophet</itunes:title>
+      <itunes:episode>31</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://rggoodgrief.github.io/listen/31.mp3" length="3534566" type="audio/mpeg"/>
+      <guid isPermaLink="false">goodgrief-31</guid>
+      <pubDate>Mon, 26 Oct 2026 08:04:20 GMT</pubDate>
+      <itunes:duration>00:01:26</itunes:duration>
+      <itunes:image href="https://rggoodgrief.github.io/listen/cover.jpg"/>
+    </item>
+    <item>
+      <title>Book II · What Is Islam? A Lot of Things.</title>
+      <itunes:title>Book II · What Is Islam? A Lot of Things.</itunes:title>
+      <itunes:episode>32</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://rggoodgrief.github.io/listen/32.mp3" length="5432466" type="audio/mpeg"/>
+      <guid isPermaLink="false">goodgrief-32</guid>
+      <pubDate>Mon, 26 Oct 2026 08:05:20 GMT</pubDate>
+      <itunes:duration>00:03:01</itunes:duration>
+      <itunes:image href="https://rggoodgrief.github.io/listen/cover.jpg"/>
+    </item>
+    <item>
+      <title>Book II · The Golden Age</title>
+      <itunes:title>Book II · The Golden Age</itunes:title>
+      <itunes:episode>33</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://rggoodgrief.github.io/listen/33.mp3" length="10388432" type="audio/mpeg"/>
+      <guid isPermaLink="false">goodgrief-33</guid>
+      <pubDate>Mon, 26 Oct 2026 08:06:20 GMT</pubDate>
+      <itunes:duration>00:07:09</itunes:duration>
+      <itunes:image href="https://rggoodgrief.github.io/listen/cover.jpg"/>
+    </item>
+    <item>
+      <title>Book II · B. The Theology</title>
+      <itunes:title>Book II · B. The Theology</itunes:title>
+      <itunes:episode>34</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://rggoodgrief.github.io/listen/34.mp3" length="4800274" type="audio/mpeg"/>
+      <guid isPermaLink="false">goodgrief-34</guid>
+      <pubDate>Mon, 26 Oct 2026 08:07:20 GMT</pubDate>
+      <itunes:duration>00:02:29</itunes:duration>
+      <itunes:image href="https://rggoodgrief.github.io/listen/cover.jpg"/>
+    </item>
+    <item>
+      <title>Book II · C. Cortado Shahada</title>
+      <itunes:title>Book II · C. Cortado Shahada</itunes:title>
+      <itunes:episode>35</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://rggoodgrief.github.io/listen/35.mp3" length="15864280" type="audio/mpeg"/>
+      <guid isPermaLink="false">goodgrief-35</guid>
+      <pubDate>Mon, 26 Oct 2026 08:08:20 GMT</pubDate>
+      <itunes:duration>00:11:43</itunes:duration>
+      <itunes:image href="https://rggoodgrief.github.io/listen/cover.jpg"/>
+    </item>
+    <item>
+      <title>Book II · Recap</title>
+      <itunes:title>Book II · Recap</itunes:title>
+      <itunes:episode>36</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://rggoodgrief.github.io/listen/36.mp3" length="3887294" type="audio/mpeg"/>
+      <guid isPermaLink="false">goodgrief-36</guid>
+      <pubDate>Mon, 26 Oct 2026 08:09:20 GMT</pubDate>
+      <itunes:duration>00:01:44</itunes:duration>
+      <itunes:image href="https://rggoodgrief.github.io/listen/cover.jpg"/>
+    </item>
+    <item>
+      <title>Book III: Love</title>
+      <itunes:title>Book III: Love</itunes:title>
+      <itunes:episode>37</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://rggoodgrief.github.io/listen/37.mp3" length="3472075" type="audio/mpeg"/>
+      <guid isPermaLink="false">goodgrief-37</guid>
+      <pubDate>Mon, 26 Oct 2026 08:10:20 GMT</pubDate>
+      <itunes:duration>00:01:23</itunes:duration>
+      <itunes:image href="https://rggoodgrief.github.io/listen/cover.jpg"/>
+    </item>
+    <item>
+      <title>Book III · Summary</title>
+      <itunes:title>Book III · Summary</itunes:title>
+      <itunes:episode>38</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://rggoodgrief.github.io/listen/38.mp3" length="3412100" type="audio/mpeg"/>
+      <guid isPermaLink="false">goodgrief-38</guid>
+      <pubDate>Mon, 26 Oct 2026 08:11:20 GMT</pubDate>
+      <itunes:duration>00:01:20</itunes:duration>
+      <itunes:image href="https://rggoodgrief.github.io/listen/cover.jpg"/>
+    </item>
+    <item>
+      <title>Book III · On Bigfoot &amp; Monogamy</title>
+      <itunes:title>Book III · On Bigfoot &amp; Monogamy</itunes:title>
+      <itunes:episode>39</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://rggoodgrief.github.io/listen/39.mp3" length="10890528" type="audio/mpeg"/>
+      <guid isPermaLink="false">goodgrief-39</guid>
+      <pubDate>Mon, 26 Oct 2026 08:12:20 GMT</pubDate>
+      <itunes:duration>00:07:34</itunes:duration>
+      <itunes:image href="https://rggoodgrief.github.io/listen/cover.jpg"/>
+    </item>
+    <item>
+      <title>Book III · Dating Suxxxxxx</title>
+      <itunes:title>Book III · Dating Suxxxxxx</itunes:title>
+      <itunes:episode>40</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://rggoodgrief.github.io/listen/40.mp3" length="5770356" type="audio/mpeg"/>
+      <guid isPermaLink="false">goodgrief-40</guid>
+      <pubDate>Mon, 26 Oct 2026 08:13:20 GMT</pubDate>
+      <itunes:duration>00:03:18</itunes:duration>
+      <itunes:image href="https://rggoodgrief.github.io/listen/cover.jpg"/>
+    </item>
+    <item>
+      <title>Book III · The Gifts</title>
+      <itunes:title>Book III · The Gifts</itunes:title>
+      <itunes:episode>41</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://rggoodgrief.github.io/listen/41.mp3" length="5936424" type="audio/mpeg"/>
+      <guid isPermaLink="false">goodgrief-41</guid>
+      <pubDate>Mon, 26 Oct 2026 08:14:20 GMT</pubDate>
+      <itunes:duration>00:03:26</itunes:duration>
+      <itunes:image href="https://rggoodgrief.github.io/listen/cover.jpg"/>
+    </item>
+    <item>
+      <title>Book III · The Love Talk</title>
+      <itunes:title>Book III · The Love Talk</itunes:title>
+      <itunes:episode>42</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://rggoodgrief.github.io/listen/42.mp3" length="5500112" type="audio/mpeg"/>
+      <guid isPermaLink="false">goodgrief-42</guid>
+      <pubDate>Mon, 26 Oct 2026 08:15:20 GMT</pubDate>
+      <itunes:duration>00:03:04</itunes:duration>
+      <itunes:image href="https://rggoodgrief.github.io/listen/cover.jpg"/>
+    </item>
+    <item>
+      <title>Book III · On Values</title>
+      <itunes:title>Book III · On Values</itunes:title>
+      <itunes:episode>43</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://rggoodgrief.github.io/listen/43.mp3" length="10226184" type="audio/mpeg"/>
+      <guid isPermaLink="false">goodgrief-43</guid>
+      <pubDate>Mon, 26 Oct 2026 08:16:20 GMT</pubDate>
+      <itunes:duration>00:07:01</itunes:duration>
+      <itunes:image href="https://rggoodgrief.github.io/listen/cover.jpg"/>
+    </item>
+    <item>
+      <title>Book III · On The Loop</title>
+      <itunes:title>Book III · On The Loop</itunes:title>
+      <itunes:episode>44</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://rggoodgrief.github.io/listen/44.mp3" length="8166508" type="audio/mpeg"/>
+      <guid isPermaLink="false">goodgrief-44</guid>
+      <pubDate>Mon, 26 Oct 2026 08:17:20 GMT</pubDate>
+      <itunes:duration>00:05:18</itunes:duration>
+      <itunes:image href="https://rggoodgrief.github.io/listen/cover.jpg"/>
+    </item>
+    <item>
+      <title>Book III · Do I Have to Hide The Islam?</title>
+      <itunes:title>Book III · Do I Have to Hide The Islam?</itunes:title>
+      <itunes:episode>45</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://rggoodgrief.github.io/listen/45.mp3" length="7582382" type="audio/mpeg"/>
+      <guid isPermaLink="false">goodgrief-45</guid>
+      <pubDate>Mon, 26 Oct 2026 08:18:20 GMT</pubDate>
+      <itunes:duration>00:04:48</itunes:duration>
+      <itunes:image href="https://rggoodgrief.github.io/listen/cover.jpg"/>
+    </item>
+    <item>
+      <title>Book III · On Sex as Covenant</title>
+      <itunes:title>Book III · On Sex as Covenant</itunes:title>
+      <itunes:episode>46</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://rggoodgrief.github.io/listen/46.mp3" length="7686522" type="audio/mpeg"/>
+      <guid isPermaLink="false">goodgrief-46</guid>
+      <pubDate>Mon, 26 Oct 2026 08:19:20 GMT</pubDate>
+      <itunes:duration>00:04:54</itunes:duration>
+      <itunes:image href="https://rggoodgrief.github.io/listen/cover.jpg"/>
+    </item>
+    <item>
+      <title>Book III · Find True Love Get Married</title>
+      <itunes:title>Book III · Find True Love Get Married</itunes:title>
+      <itunes:episode>47</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://rggoodgrief.github.io/listen/47.mp3" length="13034218" type="audio/mpeg"/>
+      <guid isPermaLink="false">goodgrief-47</guid>
+      <pubDate>Mon, 26 Oct 2026 08:20:20 GMT</pubDate>
+      <itunes:duration>00:09:21</itunes:duration>
+      <itunes:image href="https://rggoodgrief.github.io/listen/cover.jpg"/>
+    </item>
+    <item>
+      <title>Book III · "What We Have Is Special, Which Is What I Feel"</title>
+      <itunes:title>Book III · "What We Have Is Special, Which Is What I Feel"</itunes:title>
+      <itunes:episode>48</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://rggoodgrief.github.io/listen/48.mp3" length="14764180" type="audio/mpeg"/>
+      <guid isPermaLink="false">goodgrief-48</guid>
+      <pubDate>Mon, 26 Oct 2026 08:21:20 GMT</pubDate>
+      <itunes:duration>00:10:48</itunes:duration>
+      <itunes:image href="https://rggoodgrief.github.io/listen/cover.jpg"/>
+    </item>
+    <item>
+      <title>Book III · Recap</title>
+      <itunes:title>Book III · Recap</itunes:title>
+      <itunes:episode>49</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://rggoodgrief.github.io/listen/49.mp3" length="4321696" type="audio/mpeg"/>
+      <guid isPermaLink="false">goodgrief-49</guid>
+      <pubDate>Mon, 26 Oct 2026 08:22:20 GMT</pubDate>
+      <itunes:duration>00:02:05</itunes:duration>
+      <itunes:image href="https://rggoodgrief.github.io/listen/cover.jpg"/>
+    </item>
+    <item>
+      <title>Book IV: Beauty</title>
+      <itunes:title>Book IV: Beauty</itunes:title>
+      <itunes:episode>50</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://rggoodgrief.github.io/listen/50.mp3" length="2544236" type="audio/mpeg"/>
+      <guid isPermaLink="false">goodgrief-50</guid>
+      <pubDate>Mon, 26 Oct 2026 08:23:20 GMT</pubDate>
+      <itunes:duration>00:00:37</itunes:duration>
+      <itunes:image href="https://rggoodgrief.github.io/listen/cover.jpg"/>
+    </item>
+    <item>
+      <title>Book IV · Summary</title>
+      <itunes:title>Book IV · Summary</itunes:title>
+      <itunes:episode>51</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://rggoodgrief.github.io/listen/51.mp3" length="4712418" type="audio/mpeg"/>
+      <guid isPermaLink="false">goodgrief-51</guid>
+      <pubDate>Mon, 26 Oct 2026 08:24:20 GMT</pubDate>
+      <itunes:duration>00:02:25</itunes:duration>
+      <itunes:image href="https://rggoodgrief.github.io/listen/cover.jpg"/>
+    </item>
+    <item>
+      <title>Book IV · Why New York?</title>
+      <itunes:title>Book IV · Why New York?</itunes:title>
+      <itunes:episode>52</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://rggoodgrief.github.io/listen/52.mp3" length="17446350" type="audio/mpeg"/>
+      <guid isPermaLink="false">goodgrief-52</guid>
+      <pubDate>Mon, 26 Oct 2026 08:25:20 GMT</pubDate>
+      <itunes:duration>00:13:02</itunes:duration>
+      <itunes:image href="https://rggoodgrief.github.io/listen/cover.jpg"/>
+    </item>
+    <item>
+      <title>Book IV · The Hallway of Exes</title>
+      <itunes:title>Book IV · The Hallway of Exes</itunes:title>
+      <itunes:episode>53</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://rggoodgrief.github.io/listen/53.mp3" length="5040282" type="audio/mpeg"/>
+      <guid isPermaLink="false">goodgrief-53</guid>
+      <pubDate>Mon, 26 Oct 2026 08:26:20 GMT</pubDate>
+      <itunes:duration>00:02:41</itunes:duration>
+      <itunes:image href="https://rggoodgrief.github.io/listen/cover.jpg"/>
+    </item>
+    <item>
+      <title>Book IV · Bar Roman Presents: Concerning my Residency in NYC</title>
+      <itunes:title>Book IV · Bar Roman Presents: Concerning my Residency in NYC</itunes:title>
+      <itunes:episode>54</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://rggoodgrief.github.io/listen/54.mp3" length="4966424" type="audio/mpeg"/>
+      <guid isPermaLink="false">goodgrief-54</guid>
+      <pubDate>Mon, 26 Oct 2026 08:27:20 GMT</pubDate>
+      <itunes:duration>00:02:38</itunes:duration>
+      <itunes:image href="https://rggoodgrief.github.io/listen/cover.jpg"/>
+    </item>
+    <item>
+      <title>Book IV · What Else I Saw For Us</title>
+      <itunes:title>Book IV · What Else I Saw For Us</itunes:title>
+      <itunes:episode>55</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://rggoodgrief.github.io/listen/55.mp3" length="10648128" type="audio/mpeg"/>
+      <guid isPermaLink="false">goodgrief-55</guid>
+      <pubDate>Mon, 26 Oct 2026 08:28:20 GMT</pubDate>
+      <itunes:duration>00:07:22</itunes:duration>
+      <itunes:image href="https://rggoodgrief.github.io/listen/cover.jpg"/>
+    </item>
+    <item>
+      <title>Book IV · On Imagination, Dark and Light</title>
+      <itunes:title>Book IV · On Imagination, Dark and Light</itunes:title>
+      <itunes:episode>56</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://rggoodgrief.github.io/listen/56.mp3" length="5184304" type="audio/mpeg"/>
+      <guid isPermaLink="false">goodgrief-56</guid>
+      <pubDate>Mon, 26 Oct 2026 08:29:20 GMT</pubDate>
+      <itunes:duration>00:02:49</itunes:duration>
+      <itunes:image href="https://rggoodgrief.github.io/listen/cover.jpg"/>
+    </item>
+    <item>
+      <title>Book IV · The First Leg</title>
+      <itunes:title>Book IV · The First Leg</itunes:title>
+      <itunes:episode>57</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://rggoodgrief.github.io/listen/57.mp3" length="10428270" type="audio/mpeg"/>
+      <guid isPermaLink="false">goodgrief-57</guid>
+      <pubDate>Mon, 26 Oct 2026 08:30:20 GMT</pubDate>
+      <itunes:duration>00:07:11</itunes:duration>
+      <itunes:image href="https://rggoodgrief.github.io/listen/cover.jpg"/>
+    </item>
+    <item>
+      <title>Book IV · Richmond, Virginia</title>
+      <itunes:title>Book IV · Richmond, Virginia</itunes:title>
+      <itunes:episode>58</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://rggoodgrief.github.io/listen/58.mp3" length="7406200" type="audio/mpeg"/>
+      <guid isPermaLink="false">goodgrief-58</guid>
+      <pubDate>Mon, 26 Oct 2026 08:31:20 GMT</pubDate>
+      <itunes:duration>00:04:40</itunes:duration>
+      <itunes:image href="https://rggoodgrief.github.io/listen/cover.jpg"/>
+    </item>
+    <item>
+      <title>Book IV · Shenandoah</title>
+      <itunes:title>Book IV · Shenandoah</itunes:title>
+      <itunes:episode>59</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://rggoodgrief.github.io/listen/59.mp3" length="5152104" type="audio/mpeg"/>
+      <guid isPermaLink="false">goodgrief-59</guid>
+      <pubDate>Mon, 26 Oct 2026 08:32:20 GMT</pubDate>
+      <itunes:duration>00:02:47</itunes:duration>
+      <itunes:image href="https://rggoodgrief.github.io/listen/cover.jpg"/>
+    </item>
+    <item>
+      <title>Book IV · The Second Leg</title>
+      <itunes:title>Book IV · The Second Leg</itunes:title>
+      <itunes:episode>60</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://rggoodgrief.github.io/listen/60.mp3" length="7982192" type="audio/mpeg"/>
+      <guid isPermaLink="false">goodgrief-60</guid>
+      <pubDate>Mon, 26 Oct 2026 08:33:20 GMT</pubDate>
+      <itunes:duration>00:05:08</itunes:duration>
+      <itunes:image href="https://rggoodgrief.github.io/listen/cover.jpg"/>
+    </item>
+    <item>
+      <title>Book IV · Realizations of the Road</title>
+      <itunes:title>Book IV · Realizations of the Road</itunes:title>
+      <itunes:episode>61</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://rggoodgrief.github.io/listen/61.mp3" length="6826372" type="audio/mpeg"/>
+      <guid isPermaLink="false">goodgrief-61</guid>
+      <pubDate>Mon, 26 Oct 2026 08:34:20 GMT</pubDate>
+      <itunes:duration>00:04:11</itunes:duration>
+      <itunes:image href="https://rggoodgrief.github.io/listen/cover.jpg"/>
+    </item>
+    <item>
+      <title>Book IV · New York’s Not My Home</title>
+      <itunes:title>Book IV · New York’s Not My Home</itunes:title>
+      <itunes:episode>62</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://rggoodgrief.github.io/listen/62.mp3" length="11356128" type="audio/mpeg"/>
+      <guid isPermaLink="false">goodgrief-62</guid>
+      <pubDate>Mon, 26 Oct 2026 08:35:20 GMT</pubDate>
+      <itunes:duration>00:07:57</itunes:duration>
+      <itunes:image href="https://rggoodgrief.github.io/listen/cover.jpg"/>
+    </item>
+    <item>
+      <title>Book IV · Birthday Balloons: Masculine Feminine</title>
+      <itunes:title>Book IV · Birthday Balloons: Masculine Feminine</itunes:title>
+      <itunes:episode>63</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://rggoodgrief.github.io/listen/63.mp3" length="6450558" type="audio/mpeg"/>
+      <guid isPermaLink="false">goodgrief-63</guid>
+      <pubDate>Mon, 26 Oct 2026 08:36:20 GMT</pubDate>
+      <itunes:duration>00:03:52</itunes:duration>
+      <itunes:image href="https://rggoodgrief.github.io/listen/cover.jpg"/>
+    </item>
+    <item>
+      <title>Book IV · Congratulations!</title>
+      <itunes:title>Book IV · Congratulations!</itunes:title>
+      <itunes:episode>64</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://rggoodgrief.github.io/listen/64.mp3" length="7240116" type="audio/mpeg"/>
+      <guid isPermaLink="false">goodgrief-64</guid>
+      <pubDate>Mon, 26 Oct 2026 08:37:20 GMT</pubDate>
+      <itunes:duration>00:04:31</itunes:duration>
+      <itunes:image href="https://rggoodgrief.github.io/listen/cover.jpg"/>
+    </item>
+    <item>
+      <title>Book IV · Give Up. I’m Sorry.</title>
+      <itunes:title>Book IV · Give Up. I’m Sorry.</itunes:title>
+      <itunes:episode>65</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://rggoodgrief.github.io/listen/65.mp3" length="14835642" type="audio/mpeg"/>
+      <guid isPermaLink="false">goodgrief-65</guid>
+      <pubDate>Mon, 26 Oct 2026 08:38:20 GMT</pubDate>
+      <itunes:duration>00:10:51</itunes:duration>
+      <itunes:image href="https://rggoodgrief.github.io/listen/cover.jpg"/>
+    </item>
+    <item>
+      <title>Book V: What Now?</title>
+      <itunes:title>Book V: What Now?</itunes:title>
+      <itunes:episode>66</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://rggoodgrief.github.io/listen/66.mp3" length="3434158" type="audio/mpeg"/>
+      <guid isPermaLink="false">goodgrief-66</guid>
+      <pubDate>Mon, 26 Oct 2026 08:39:20 GMT</pubDate>
+      <itunes:duration>00:01:21</itunes:duration>
+      <itunes:image href="https://rggoodgrief.github.io/listen/cover.jpg"/>
+    </item>
+    <item>
+      <title>Book V · Journal From October 17th, 2026</title>
+      <itunes:title>Book V · Journal From October 17th, 2026</itunes:title>
+      <itunes:episode>67</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://rggoodgrief.github.io/listen/67.mp3" length="15266224" type="audio/mpeg"/>
+      <guid isPermaLink="false">goodgrief-67</guid>
+      <pubDate>Mon, 26 Oct 2026 08:40:20 GMT</pubDate>
+      <itunes:duration>00:11:13</itunes:duration>
+      <itunes:image href="https://rggoodgrief.github.io/listen/cover.jpg"/>
+    </item>
+    <item>
+      <title>Book V · What Now, With This Book?</title>
+      <itunes:title>Book V · What Now, With This Book?</itunes:title>
+      <itunes:episode>68</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://rggoodgrief.github.io/listen/68.mp3" length="3162532" type="audio/mpeg"/>
+      <guid isPermaLink="false">goodgrief-68</guid>
+      <pubDate>Mon, 26 Oct 2026 08:41:20 GMT</pubDate>
+      <itunes:duration>00:01:07</itunes:duration>
+      <itunes:image href="https://rggoodgrief.github.io/listen/cover.jpg"/>
+    </item>
+    <item>
+      <title>Book V · What Now, With That Man?</title>
+      <itunes:title>Book V · What Now, With That Man?</itunes:title>
+      <itunes:episode>69</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://rggoodgrief.github.io/listen/69.mp3" length="8956130" type="audio/mpeg"/>
+      <guid isPermaLink="false">goodgrief-69</guid>
+      <pubDate>Mon, 26 Oct 2026 08:42:20 GMT</pubDate>
+      <itunes:duration>00:05:57</itunes:duration>
+      <itunes:image href="https://rggoodgrief.github.io/listen/cover.jpg"/>
+    </item>
+    <item>
+      <title>Book V · I Had A Feeling I’d See You Again</title>
+      <itunes:title>Book V · I Had A Feeling I’d See You Again</itunes:title>
+      <itunes:episode>70</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://rggoodgrief.github.io/listen/70.mp3" length="5576468" type="audio/mpeg"/>
+      <guid isPermaLink="false">goodgrief-70</guid>
+      <pubDate>Mon, 26 Oct 2026 08:43:20 GMT</pubDate>
+      <itunes:duration>00:03:08</itunes:duration>
+      <itunes:image href="https://rggoodgrief.github.io/listen/cover.jpg"/>
+    </item>
+    <item>
+      <title>Book V · What Do You Want?</title>
+      <itunes:title>Book V · What Do You Want?</itunes:title>
+      <itunes:episode>71</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://rggoodgrief.github.io/listen/71.mp3" length="10010196" type="audio/mpeg"/>
+      <guid isPermaLink="false">goodgrief-71</guid>
+      <pubDate>Mon, 26 Oct 2026 08:44:20 GMT</pubDate>
+      <itunes:duration>00:06:50</itunes:duration>
+      <itunes:image href="https://rggoodgrief.github.io/listen/cover.jpg"/>
+    </item>
+    <item>
+      <title>Book V · Slow Is Smooth. Smooth Is Good.</title>
+      <itunes:title>Book V · Slow Is Smooth. Smooth Is Good.</itunes:title>
+      <itunes:episode>72</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://rggoodgrief.github.io/listen/72.mp3" length="5324464" type="audio/mpeg"/>
+      <guid isPermaLink="false">goodgrief-72</guid>
+      <pubDate>Mon, 26 Oct 2026 08:45:20 GMT</pubDate>
+      <itunes:duration>00:02:56</itunes:duration>
+      <itunes:image href="https://rggoodgrief.github.io/listen/cover.jpg"/>
+    </item>
+    <item>
+      <title>Book V · What Now, With This Life Itself?</title>
+      <itunes:title>Book V · What Now, With This Life Itself?</itunes:title>
+      <itunes:episode>73</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://rggoodgrief.github.io/listen/73.mp3" length="8045586" type="audio/mpeg"/>
+      <guid isPermaLink="false">goodgrief-73</guid>
+      <pubDate>Mon, 26 Oct 2026 08:46:20 GMT</pubDate>
+      <itunes:duration>00:05:12</itunes:duration>
+      <itunes:image href="https://rggoodgrief.github.io/listen/cover.jpg"/>
+    </item>
+  </channel>
+</rss>
